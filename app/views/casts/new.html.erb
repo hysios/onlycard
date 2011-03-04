@@ -1,0 +1,29 @@
+<p style="color: red"><%= flash[:error]  %></p>
+<%= @current_user.login  %>
+<%= @current_user.id %>
+
+
+
+<% form_tag '', {:class => "form"} do %>
+	<%= label_tag t :issue_no %>
+  <%= text_field_tag :issue_no , @issue_no %>  
+  <%= submit_tag "query"%>
+<% end -%>
+
+<% if @customer -%>
+	<b><%= t :name %></b>
+	<%= h @customer.name %>
+	<%= h @customer.cast_count %>
+	
+  	
+	
+	<% form_for @cast,:url => {:action => "create" } do |f|	%>
+		<%= f.label :money, "Money" %>
+		<%= f.text_field :money %>
+		<%= hidden_field_tag :customer_id,@customer.id %>
+		<%= f.label :remark, "Remark" %>
+		<%= f.text_area :remark %>
+		<%= f.submit "Create", :disable_with => 'Submiting...' %>
+	<% end -%>
+	
+<% end -%>
