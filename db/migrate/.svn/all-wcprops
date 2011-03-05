@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/onlycard/!svn/ver/1/db/migrate
+END
+20110304050016_create_customers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/onlycard/!svn/ver/1/db/migrate/20110304050016_create_customers.rb
+END
+20110304060000_add_issue_no_to_customers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/onlycard/!svn/ver/1/db/migrate/20110304060000_add_issue_no_to_customers.rb
+END
+20110303075536_create_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/onlycard/!svn/ver/1/db/migrate/20110303075536_create_users.rb
+END
+20110304050407_create_casts.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/onlycard/!svn/ver/1/db/migrate/20110304050407_create_casts.rb
+END
+20110304101249_rename_cast_time_from_casts.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/onlycard/!svn/ver/1/db/migrate/20110304101249_rename_cast_time_from_casts.rb
+END
+20110303082834_create_sessions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/onlycard/!svn/ver/1/db/migrate/20110303082834_create_sessions.rb
+END

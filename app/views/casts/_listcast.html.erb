@@ -1,0 +1,28 @@
+<div id="customer_cast_detail">
+	<p> <%= l :label_cast_detail %>
+<% if !casts.blank? %>
+	<table border="1" >
+	<tr>
+		<th><%= l :label_date %></th>
+		<th><%= l :field_money %></th>
+		<th><%= l :field_remark %></th>
+	</tr>
+
+  <% for cast in casts %>
+  <tr>
+  	<td>
+  		<%= format_time	 cast.created_at %>
+		</td>
+		<td>
+    <%= number_to_currency cast.money %> 
+    </td>
+    <td>
+    	<%= cast.remark %>
+  	</td>
+  </tr>
+  <% end %>
+  </table>  
+<% else %>
+
+<% end %>
+</div>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/onlycard/!svn/ver/1/test/unit/helpers
+END
+users_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/onlycard/!svn/ver/1/test/unit/helpers/users_helper_test.rb
+END
+customers_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/onlycard/!svn/ver/1/test/unit/helpers/customers_helper_test.rb
+END
+user_sessions_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/onlycard/!svn/ver/1/test/unit/helpers/user_sessions_helper_test.rb
+END
+casts_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/onlycard/!svn/ver/1/test/unit/helpers/casts_helper_test.rb
+END

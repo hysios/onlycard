@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/test_case
+END
+mock_cookie_jar.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/test_case/mock_cookie_jar.rb
+END
+mock_request.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/test_case/mock_request.rb
+END
+rails_request_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/test_case/rails_request_adapter.rb
+END
+mock_logger.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/test_case/mock_logger.rb
+END
+mock_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/test_case/mock_controller.rb
+END

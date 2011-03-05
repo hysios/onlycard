@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/onlycard/!svn/ver/1/test/fixtures
+END
+users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/onlycard/!svn/ver/1/test/fixtures/users.yml
+END
+customers.yml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/onlycard/!svn/ver/1/test/fixtures/customers.yml
+END
+casts.yml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/onlycard/!svn/ver/1/test/fixtures/casts.yml
+END

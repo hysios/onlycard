@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/test/fixtures
+END
+users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/test/fixtures/users.yml
+END
+employees.yml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/test/fixtures/employees.yml
+END
+projects.yml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/test/fixtures/projects.yml
+END
+companies.yml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/test/fixtures/companies.yml
+END

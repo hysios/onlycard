@@ -1,0 +1,40 @@
+10
+
+dir
+15
+http://master.wanliu.local/svn/onlycard/app
+http://master.wanliu.local/svn/onlycard
+
+
+
+2011-03-05T11:22:42.640146Z
+14
+hysios
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ea7a598e-410b-4dd2-83c9-89a57e2e5a9e
+
+helpers
+dir
+
+models
+dir
+
+controllers
+dir
+
+views
+dir
+

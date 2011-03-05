@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/test
+END
+i18n_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/test/i18n_test.rb
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/test/test_helper.rb
+END
+random_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/test/random_test.rb
+END
+authenticates_many_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/test/authenticates_many_test.rb
+END

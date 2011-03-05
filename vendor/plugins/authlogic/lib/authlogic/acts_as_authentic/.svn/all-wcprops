@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic
+END
+perishable_token.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/perishable_token.rb
+END
+magic_columns.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/magic_columns.rb
+END
+password.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/password.rb
+END
+single_access_token.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/single_access_token.rb
+END
+restful_authentication.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/restful_authentication.rb
+END
+persistence_token.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/persistence_token.rb
+END
+session_maintenance.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/session_maintenance.rb
+END
+validations_scope.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/validations_scope.rb
+END
+email.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/email.rb
+END
+login.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/login.rb
+END
+base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/base.rb
+END
+logged_in_status.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/logged_in_status.rb
+END

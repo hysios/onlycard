@@ -1,0 +1,77 @@
+10
+
+dir
+15
+http://master.wanliu.local/svn/onlycard/test
+http://master.wanliu.local/svn/onlycard
+
+
+
+2011-03-05T06:23:23.417802Z
+1
+hysios
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ea7a598e-410b-4dd2-83c9-89a57e2e5a9e
+
+unit
+dir
+
+test_helper.rb
+file
+
+
+
+
+2011-03-03T06:13:35.531250Z
+e297614c72684d065aef001f86188732
+2011-03-05T06:23:23.417802Z
+1
+hysios
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1800
+
+performance
+dir
+
+functional
+dir
+
+integration
+dir
+
+fixtures
+dir
+

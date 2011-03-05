@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/onlycard/!svn/ver/1/app/models
+END
+user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/onlycard/!svn/ver/1/app/models/user.rb
+END
+customer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/onlycard/!svn/ver/1/app/models/customer.rb
+END
+user_session.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/onlycard/!svn/ver/1/app/models/user_session.rb
+END
+cast.rb
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/onlycard/!svn/ver/1/app/models/cast.rb
+END

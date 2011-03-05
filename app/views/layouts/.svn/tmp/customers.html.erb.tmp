@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+  <title>Customers: <%= controller.action_name %></title>
+  <%= stylesheet_link_tag 'scaffold' %>
+  <%= javascript_include_tag :all %>
+</head>
+<body>
+	<div id="head">
+		<div class="nav">
+			<div class="nav_left">
+				<ul>
+					<li><%= link_to l (:menu_cast) , "/cast" %></li>
+					<li><%= link_to l (:menu_customer), customers_path %></li>
+					<li><a href="#">充值</a></li>
+				</ul>	
+		    </div>
+		    <div class="nav_right">
+		    	<ul>
+		    		<li><a href="#">用户名</a></li>
+		    		<li><a herf="#">退出</a></li>
+		    	</ul>
+		    </div>
+	    </div>	
+	    <div class="title">方盈一卡通</div>
+	</div>
+	<div id="content">	
+		<p id="notice" style="color: green"><%= notice  %></p>
+		<p id="error" style="color: red"><%= flash[:error]  %></p>
+		<%= dynamic_effect "notice", :highlight, :startcolor => "#88ff88", :endcolor => "#FFFFFF" %>
+		<%= dynamic_effect "error", :highlight, :startcolor => "#ff0000", :endcolor => "#FFFFFF" %>
+		<%= yield %>
+    </div>
+    <div id="bottom">
+        版权所有   2011-方盈公司，软件开发部		
+    </div>
+</body>
+</html>

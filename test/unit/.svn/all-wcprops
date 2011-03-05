@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/onlycard/!svn/ver/1/test/unit
+END
+user_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/onlycard/!svn/ver/1/test/unit/user_test.rb
+END
+customer_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/onlycard/!svn/ver/1/test/unit/customer_test.rb
+END
+casts_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/onlycard/!svn/ver/1/test/unit/casts_test.rb
+END

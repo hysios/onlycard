@@ -1,0 +1,27 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 23
+/svn/onlycard/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/onlycard/!svn/ver/15
+END
+test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/onlycard/!svn/ver/1/test.rb
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/onlycard/!svn/ver/1/Rakefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/onlycard/!svn/ver/1/README
+END

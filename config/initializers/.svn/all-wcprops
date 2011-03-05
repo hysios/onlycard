@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/onlycard/!svn/ver/1/config/initializers
+END
+inflections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/onlycard/!svn/ver/1/config/initializers/inflections.rb
+END
+session_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/onlycard/!svn/ver/1/config/initializers/session_store.rb
+END
+cookie_verification_secret.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/onlycard/!svn/ver/1/config/initializers/cookie_verification_secret.rb
+END
+backtrace_silencers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/onlycard/!svn/ver/1/config/initializers/backtrace_silencers.rb
+END
+new_rails_defaults.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/onlycard/!svn/ver/1/config/initializers/new_rails_defaults.rb
+END
+mime_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/onlycard/!svn/ver/1/config/initializers/mime_types.rb
+END

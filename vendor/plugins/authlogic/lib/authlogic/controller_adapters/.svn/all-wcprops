@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/controller_adapters
+END
+sinatra_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/controller_adapters/sinatra_adapter.rb
+END
+abstract_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/controller_adapters/abstract_adapter.rb
+END
+merb_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/controller_adapters/merb_adapter.rb
+END
+rails_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/controller_adapters/rails_adapter.rb
+END

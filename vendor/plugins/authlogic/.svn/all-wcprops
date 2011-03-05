@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic
+END
+authlogic.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/authlogic.gemspec
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/LICENSE
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/Rakefile
+END
+README.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/README.rdoc
+END
+VERSION.yml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/VERSION.yml
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/init.rb
+END
+CHANGELOG.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/CHANGELOG.rdoc
+END

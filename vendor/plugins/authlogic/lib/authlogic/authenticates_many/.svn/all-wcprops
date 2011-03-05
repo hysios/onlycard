@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/authenticates_many
+END
+base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/authenticates_many/base.rb
+END
+association.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/onlycard/!svn/ver/1/vendor/plugins/authlogic/lib/authlogic/authenticates_many/association.rb
+END

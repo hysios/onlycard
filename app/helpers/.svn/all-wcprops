@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/onlycard/!svn/ver/3/app/helpers
+END
+users_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/onlycard/!svn/ver/1/app/helpers/users_helper.rb
+END
+application_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/onlycard/!svn/ver/3/app/helpers/application_helper.rb
+END
+customers_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/onlycard/!svn/ver/1/app/helpers/customers_helper.rb
+END
+user_sessions_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/onlycard/!svn/ver/1/app/helpers/user_sessions_helper.rb
+END
+casts_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/onlycard/!svn/ver/1/app/helpers/casts_helper.rb
+END
